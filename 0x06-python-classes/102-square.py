@@ -1,3 +1,4 @@
+:wq
 #!/usr/bin/python3
 
 """Define a class Square."""
@@ -69,4 +70,3 @@ class Square:
             if i != self.__size - 1:
                 print("")
         return ("")
-
